@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ConquerorGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/csv_files/ConquerorGame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
